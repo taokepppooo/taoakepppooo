@@ -1,1 +1,2 @@
-# taoakepppooo
+[![TaoKe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taokepppooo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/taokepppooo/github-readme-stats#gh-dark-mode-only)
+[![TaoKe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taokepppooo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taokepppooo/github-readme-stats#gh-light-mode-only)
